@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: learning
+    database: LEARNING  
+    schema: BRONZE  
+    tables:
+      - name: TRADING_JOURNAL_RAW
+  
